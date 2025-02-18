@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="left">Hi nice to meet u :]</h1>
 
-<!--
-**guimartinc/guimartinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+    My name is Guilherme. I currently work as a UX Designer and Web Designer. 
+    Recently, I started watching some videos about programming and decided to study it further. 
+    Now, here I am, coding like crazy every day because I truly fell in love with this world.
+</p>
 
-Here are some ideas to get you started:
+## Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr valign="top">
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,html,css,flask,figma,git,github"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://i.imgur.com/leZOdBP.gif" width="500"/>
+    </td>
+  </tr>
+</table>
