@@ -6,7 +6,7 @@
     Now, here I am, coding like crazy every day because I truly fell in love with this world.
 </p>
 
-## Languages and Tools
+Languages and Tools
 
 <table>
   <tr valign="top">
